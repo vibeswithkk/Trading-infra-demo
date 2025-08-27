@@ -1,0 +1,34 @@
+# Enterprise Logging System Requirements
+
+# Core Dependencies
+pydantic>=2.8.0
+prometheus-client>=0.20.0
+cryptography>=41.0.0
+
+# Optional Destinations
+kafka-python>=2.0.0  # For Kafka logging
+redis>=5.0.0  # For Redis PubSub logging
+elasticsearch>=8.0.0  # For Elasticsearch logging
+
+# FastAPI Integration
+fastapi>=0.111.0
+uvicorn>=0.30.0
+python-multipart>=0.0.6
+pyjwt>=2.8.0  # For JWT token parsing in middleware
+
+# Testing Dependencies
+pytest>=8.3.0
+pytest-asyncio>=0.23.0
+pytest-mock>=3.12.0
+
+# Performance Testing
+psutil>=5.9.0  # For memory usage benchmarks
+
+# Development Dependencies
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
