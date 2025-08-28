@@ -1,27 +1,68 @@
-MIT License
+### **End-User License Agreement (EULA)**
 
-Copyright (c) 2024 Elite Trading Infrastructure
+**This Agreement is a legally binding contract between you, the user and licensee, and the Developer (hereinafter referred to as the "Licensor"), as the owner and licensor of this Source Code. By accessing, downloading, or using this Source Code, you acknowledge that you have read, understood, and agree to all the terms set forth below.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Copyright (c) 2025 Developer. All Rights Reserved.**
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+#### **Article 1: Grant of Limited License**
 
-DISCLAIMER:
-This software is for demonstration and portfolio purposes only. It does not
-include real trading strategies, live market data connections, production
-credentials, or any business-sensitive code. All examples use mock data and
-dummy credentials for educational purposes.
+1.1. The Licensor hereby grants you, the **Licensee**, a limited, non-exclusive, non-transferable, and revocable right to **view and study** this Source Code.
+
+1.2. This use is expressly limited to non-commercial and personal purposes, including as a learning tool and medium, a reference for general knowledge, and an academic cheat sheet.
+
+---
+
+#### **Article 2: Ownership and Copyright**
+
+2.1. This Source Code is the exclusive intellectual property of the Licensor. All rights, title, and interest in and to this Source Code, including but not limited to the source code, algorithms, design, documentation, and all modifications or updates, are and shall remain the sole property of the Licensor.
+
+2.2. This Source Code is protected by various strong national and international legal instruments. Any violation of this license will be prosecuted in accordance with applicable regulations, including, but not limited to:
+* **Laws of the Republic of Indonesia:**
+    * **Law No. 28 of 2014** concerning Copyright. The Source Code is specifically protected as a copyrighted work under **Article 40 Paragraph (1) letter s**, and the exclusive economic rights of the Licensor are governed by **Article 9**.
+    * **The Criminal Code (KUHP)** related to criminal acts of Intellectual Property Rights infringement, including articles on imitation and misuse of another's work.
+    * **Law No. 11 of 2008** concerning Electronic Information and Transactions (ITE Law) and its amendments (**Law No. 19 of 2016**). Relevant articles include protection of electronic documents and prohibition of illegal access to electronic systems.
+    * **Law No. 30 of 2000** concerning Trade Secrets. Unpublished source code is protected as a trade secret, and unauthorized copying and use may incur additional legal sanctions.
+
+* **International Treaties:**
+    * **The Berne Convention** for the Protection of Literary and Artistic Works. As a member country, Indonesia guarantees automatic protection of your work in 179 other countries.
+    * **The WIPO Copyright Treaty (WCT)**. This treaty specifically adapts the Berne Convention to the digital era, strengthening protection for the transmission and distribution of works over the internet.
+    * **The WIPO Performances and Phonograms Treaty (WPPT)**, which provides additional protection for works in digital formats.
+
+---
+
+#### **Article 3: Licensee's Restrictions and Obligations**
+
+3.1. The Licensee is expressly prohibited from:
+* **Reproducing or Distributing:** Copying, reproducing, distributing, publishing, or broadcasting this Source Code in any form without the written consent of the Licensor.
+* **Commercializing:** Selling, leasing, transferring, sublicensing, or commercially trading this Source Code.
+* **Modifying:** Altering, adapting, modifying, or creating derivative works from this Source Code.
+* **Reverse Engineering:** Reverse engineering, decompiling, or disassembling this Source Code.
+* **Using for Other Purposes:** Using this Source Code for any operational, commercial, or non-personal purposes.
+
+3.2. Any violation of the provisions in this article shall be considered a severe copyright infringement, which may be subject to criminal and civil sanctions in accordance with applicable law.
+
+---
+
+#### **Article 4: Warranties and Limitation of Liability**
+
+4.1. This Source Code is provided **"AS IS"** without any warranty, express or implied, including but not limited to warranties of fitness for a particular purpose.
+
+4.2. The Licensor is not liable for any loss, damage, or claims arising from the use or inability to use this Source Code, including direct, indirect, incidental, or consequential damages.
+
+---
+
+#### **Article 5: Termination of Agreement**
+
+5.1. This license will automatically terminate without notice if the Licensee violates any of the terms and conditions set forth in this Agreement.
+
+5.2. Upon termination of the license, the Licensee must immediately cease using this Source Code and delete all copies from all storage devices.
+
+---
+
+#### **Article 6: Statement of Agreement**
+
+6.1. By installing, accessing, or using this Source Code, you declare and warrant that you have carefully read this Agreement, fully understand its contents, and agree to be bound by all the terms and conditions stated within it.
+
+**THIS IS A BINDING CONTRACT. IF YOU DO NOT AGREE TO ALL OF THE TERMS, DO NOT USE THIS SOURCE CODE.**
