@@ -1,68 +1,64 @@
-### **End-User License Agreement (EULA)**
+Learning License v1.0 – Developer Educational License
 
-**This Agreement is a legally binding contract between you, the user and licensee, and the Developer (hereinafter referred to as the "Licensor"), as the owner and licensor of this Source Code. By accessing, downloading, or using this Source Code, you acknowledge that you have read, understood, and agree to all the terms set forth below.**
+Copyright (c) 2025 Developer
+All rights reserved.
 
-**Copyright (c) 2025 Developer. All Rights Reserved.**
+1. Permitted Usage
 
----
+You are allowed to:
 
-#### **Article 1: Grant of Limited License**
+Read, study, and use this code as a reference for learning purposes.
 
-1.1. The Licensor hereby grants you, the **Licensee**, a limited, non-exclusive, non-transferable, and revocable right to **view and study** this Source Code.
+Copy-paste portions of the code into your personal repositories for experimentation and practice.
 
-1.2. This use is expressly limited to non-commercial and personal purposes, including as a learning tool and medium, a reference for general knowledge, and an academic cheat sheet.
+Modify, adapt, and experiment with the code for educational purposes only.
 
----
+Clone or fork this repository to create a personal copy—changes will not affect the original repository.
 
-#### **Article 2: Ownership and Copyright**
+Important: Any work based on this repository must reside in your own private or public repository, not in a copy that claims to be the original.
 
-2.1. This Source Code is the exclusive intellectual property of the Licensor. All rights, title, and interest in and to this Source Code, including but not limited to the source code, algorithms, design, documentation, and all modifications or updates, are and shall remain the sole property of the Licensor.
+2. Restrictions
 
-2.2. This Source Code is protected by various strong national and international legal instruments. Any violation of this license will be prosecuted in accordance with applicable regulations, including, but not limited to:
-* **Laws of the Republic of Indonesia:**
-    * **Law No. 28 of 2014** concerning Copyright. The Source Code is specifically protected as a copyrighted work under **Article 40 Paragraph (1) letter s**, and the exclusive economic rights of the Licensor are governed by **Article 9**.
-    * **The Criminal Code (KUHP)** related to criminal acts of Intellectual Property Rights infringement, including articles on imitation and misuse of another's work.
-    * **Law No. 11 of 2008** concerning Electronic Information and Transactions (ITE Law) and its amendments (**Law No. 19 of 2016**). Relevant articles include protection of electronic documents and prohibition of illegal access to electronic systems.
-    * **Law No. 30 of 2000** concerning Trade Secrets. Unpublished source code is protected as a trade secret, and unauthorized copying and use may incur additional legal sanctions.
+You are NOT allowed to:
 
-* **International Treaties:**
-    * **The Berne Convention** for the Protection of Literary and Artistic Works. As a member country, Indonesia guarantees automatic protection of your work in 179 other countries.
-    * **The WIPO Copyright Treaty (WCT)**. This treaty specifically adapts the Berne Convention to the digital era, strengthening protection for the transmission and distribution of works over the internet.
-    * **The WIPO Performances and Phonograms Treaty (WPPT)**, which provides additional protection for works in digital formats.
+Sell, distribute, or use this code or derivatives for commercial purposes without explicit written consent from the Developer.
 
----
+Clone or fork this repository and use it as the foundation of a commercial product.
 
-#### **Article 3: Licensee's Restrictions and Obligations**
+Remove this license or the copyright notice in any derivative work.
 
-3.1. The Licensee is expressly prohibited from:
-* **Reproducing or Distributing:** Copying, reproducing, distributing, publishing, or broadcasting this Source Code in any form without the written consent of the Licensor.
-* **Commercializing:** Selling, leasing, transferring, sublicensing, or commercially trading this Source Code.
-* **Modifying:** Altering, adapting, modifying, or creating derivative works from this Source Code.
-* **Reverse Engineering:** Reverse engineering, decompiling, or disassembling this Source Code.
-* **Using for Other Purposes:** Using this Source Code for any operational, commercial, or non-personal purposes.
+3. How Clone and Fork Work
 
-3.2. Any violation of the provisions in this article shall be considered a severe copyright infringement, which may be subject to criminal and civil sanctions in accordance with applicable law.
+Clone: Creates a local copy on your computer. Changes affect only your local version. The original repository remains intact.
 
----
+Fork: Creates a copy in your GitHub account. You can change it freely, but it is entirely separate from the original.
 
-#### **Article 4: Warranties and Limitation of Liability**
+Conclusion: The original repository is always safe. Clone and fork are intended for learning and experimentation, not commercial exploitation.
 
-4.1. This Source Code is provided **"AS IS"** without any warranty, express or implied, including but not limited to warranties of fitness for a particular purpose.
+4. Legal Notes
 
-4.2. The Licensor is not liable for any loss, damage, or claims arising from the use or inability to use this Source Code, including direct, indirect, incidental, or consequential damages.
+This code is distributed as-is for educational purposes only. Unauthorized commercial use, resale, or redistribution without explicit permission from the Developer is strictly prohibited.
 
----
+Violations may be subject to international copyright laws, including but not limited to:
 
-#### **Article 5: Termination of Agreement**
+Berne Convention for the Protection of Literary and Artistic Works – Automatic copyright protection; prohibits unauthorized reproduction or distribution.
 
-5.1. This license will automatically terminate without notice if the Licensee violates any of the terms and conditions set forth in this Agreement.
+Universal Copyright Convention (UCC) – Protects copyrighted works globally against unauthorized copying and commercial exploitation.
 
-5.2. Upon termination of the license, the Licensee must immediately cease using this Source Code and delete all copies from all storage devices.
+World Intellectual Property Organization (WIPO) Copyright Treaty – Ensures copyright protection in member countries; commercial exploitation requires consent.
 
----
+Local copyright laws of the user’s country – Users are responsible for compliance with local legislation.
 
-#### **Article 6: Statement of Agreement**
+Any commercial use, distribution, or sale of this repository or its contents without written consent from the Developer may lead to legal action under international copyright regulations.
 
-6.1. By installing, accessing, or using this Source Code, you declare and warrant that you have carefully read this Agreement, fully understand its contents, and agree to be bound by all the terms and conditions stated within it.
+5. Summary
 
-**THIS IS A BINDING CONTRACT. IF YOU DO NOT AGREE TO ALL OF THE TERMS, DO NOT USE THIS SOURCE CODE.**
+This Learning License encourages:
+
+Reading, studying, and learning from the code.
+
+Copying portions for personal experimentation.
+
+Safe use of clone/fork features.
+
+Respect for intellectual property and prevention of unauthorized commercial use.
