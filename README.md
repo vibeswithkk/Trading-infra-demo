@@ -94,29 +94,29 @@ graph TB
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    Production Environment                    │
+│                    Production Environment                   │
 ├─────────────────────────────────────────────────────────────┤
-│  Load Balancer (Nginx/HAProxy)                            │
+│  Load Balancer (Nginx/HAProxy)                              │
 │    │                                                        │
-│    ├─ FastAPI Instance 1 (Docker)                         │
-│    ├─ FastAPI Instance 2 (Docker)                         │
-│    └─ FastAPI Instance N (Docker)                         │
-│                                                            │
-│  ┌──────────────────┐  ┌──────────────────┐              │
-│  │   PostgreSQL     │  │   Redis Cluster  │              │
-│  │   Primary/Replica│  │   Cache & Session│              │
-│  └──────────────────┘  └──────────────────┘              │
-│                                                            │
-│  ┌──────────────────┐  ┌──────────────────┐              │
-│  │   Prometheus     │  │   Jaeger/OTEL    │              │
-│  │   Metrics        │  │   Distributed     │              │
-│  │   Collection     │  │   Tracing         │              │
-│  └──────────────────┘  └──────────────────┘              │
-│                                                            │
-│  ┌──────────────────────────────────────────────────────┐ │
-│  │           External Market Data & Brokers             │ │
-│  │    NYSE • NASDAQ • Interactive Brokers • etc.       │ │
-│  └──────────────────────────────────────────────────────┘ │
+│    ├─ FastAPI Instance 1 (Docker)                           │
+│    ├─ FastAPI Instance 2 (Docker)                           │
+│    └─ FastAPI Instance N (Docker)                           │
+│                                                             │
+│  ┌──────────────────┐  ┌──────────────────┐                 │
+│  │   PostgreSQL     │  │   Redis Cluster  │                 │
+│  │   Primary/Replica│  │   Cache & Session│                 │
+│  └──────────────────┘  └──────────────────┘                 │
+│                                                             │
+│  ┌──────────────────┐  ┌──────────────────┐                 │
+│  │   Prometheus     │  │   Jaeger/OTEL    │                 │
+│  │   Metrics        │  │   Distributed     │                │
+│  │   Collection     │  │   Tracing         │                │
+│  └──────────────────┘  └──────────────────┘                 │
+│                                                             │
+│  ┌──────────────────────────────────────────────────────┐   │
+│  │           External Market Data & Brokers             │   │
+│  │    NYSE • NASDAQ • Interactive Brokers • etc.        │   │
+│  └──────────────────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
