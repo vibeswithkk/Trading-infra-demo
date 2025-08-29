@@ -143,7 +143,7 @@ Order Processing Flow:
      │              │              │             │              │
      ▼              ▼              ▼             ▼              ▼
 ┌─────────────────────────────────────────────────────────────────────┐
-│              Comprehensive Audit Trail & Compliance                │
+│              Comprehensive Audit Trail & Compliance                 │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
